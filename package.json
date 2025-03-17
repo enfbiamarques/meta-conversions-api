@@ -1,0 +1,12 @@
+{
+  "name": "meta-conversions-api",
+  "version": "1.0.0",
+  "description": "API para enviar eventos para a API de Conversões da Meta",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
